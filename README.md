@@ -52,5 +52,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 <!-- INSPIRATIONAL_QUOTE_END -->
